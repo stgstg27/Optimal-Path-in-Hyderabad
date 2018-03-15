@@ -1,7 +1,7 @@
 ####################################################################
-#####	Creating Graph using latitude and Logitude Dataset	########
-#####	Artificial Intelligence (CS F407)					########
-##### 	@author: Saurabh,Akhil					`			########
+#####	Creating Graph using latitude and Logitude Dataset  ########
+#####	Artificial Intelligence (CS F407)		    ########
+##### 	@author: Saurabh,Akhil				    ########
 ####################################################################	
 
 
