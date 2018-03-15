@@ -1,7 +1,7 @@
 ####################################################################
-#####	Finding path using A* Algorithm and Graph		 	########
-#####	Artificial Intelligence (CS F407)					########
-##### 	@author: Saurabh,Akhil					`			########
+#####	Finding path using A* Algorithm and Graph	############
+#####	Artificial Intelligence (CS F407)		############
+##### 	@author: Saurabh,Akhil				############
 ####################################################################	
 
 import pickle
