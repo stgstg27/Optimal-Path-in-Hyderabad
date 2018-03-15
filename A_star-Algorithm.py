@@ -16,6 +16,7 @@ import re
 print('Importing Libraries.............')
 
 
+
 print ('Loading Adjancency Matrix......')
 with open('adj_mat.pkl','rb') as fp:
  	a=pickle.load(fp)
