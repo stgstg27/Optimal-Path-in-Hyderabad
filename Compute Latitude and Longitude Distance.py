@@ -1,7 +1,7 @@
 ################################################################
-#####	Creating Latitude and Logitude Dataset			########
-#####	Artificial Intelligence (CS F407)				########
-##### 	@author: Saurabh,Akhil					`		########
+#####	Creating Latitude and Logitude Dataset		########
+#####	Artificial Intelligence (CS F407)		########
+##### 	@author: Saurabh,Akhil				########
 ################################################################				
 
 from geopy.geocoders import Nominatim
